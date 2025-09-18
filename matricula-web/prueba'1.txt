@@ -1,0 +1,3 @@
+prueba de ingreso de archivo de texto
+
+codigo de alumno@upn.pe
